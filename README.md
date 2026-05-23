@@ -22,14 +22,20 @@ This dashboard consists of multiple report pages covering:
 
 ![Dashboard Preview](dashboard-screenshots/executive-dashboard.png)
 
-## Repository Contents 📄
-
-```text
-AdventureWorks_Report.pbix
-screenshots/
-demo.mp4
-README.md
+## 📂 Repository Structure
 ```
+PowerBI-Business-Intelligence-Dashboard/
+│
+├── custom-icons/                          # PNG files for custom icon images used in the dashboard
+├── dashboard-screenshots/                 # Dashboard screenshots for all important analysis
+├── datasets/                              # Raw datasets used for the project (AdventureWorks Raw Data)
+├── AdventureWorks_Report-Dashboard.pbx    # Main Dashboard File (PowerBI)
+├── demo.mp4                               # demo mp4 screen recording to showcase the dashboard features
+│
+├── README.md                              # Project overview and instructions
+├── LICENSE                                # License information for the repository
+```
+---
 
 ## Key Learning Outcomes 💡
 
