@@ -40,3 +40,21 @@ PowerBI-Business-Intelligence-Dashboard/
 ## Key Learning Outcomes 💡
 
 Through this project, I gained hands-on experience in data modeling, DAX calculations, KPI design, forecasting, dashboard development, and business intelligence reporting using Power BI.
+
+## 🌟 About Me
+
+Hi, I'm **Akarsh Kapoor** — a Data & Analytics professional passionate about solving business problems through technology, automation, and data-driven insights.
+
+This project was built as part of my journey to better understand how APIs, databases, cloud platforms, and automation workflows work together in real-world enterprise environments.
+
+My interests include:
+
+- Data Analytics & Business Intelligence
+- SQL & Database Management
+- Python Automation
+- Cloud Technologies (AWS)
+- AI & Data-Driven Solutions
+
+Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarsh-kapoor/)
