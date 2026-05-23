@@ -20,7 +20,7 @@ This dashboard consists of multiple report pages covering:
 
 ## Preview 📱
 
-![Dashboard Preview](screenshots/Executive_Dashboard.png)
+![Dashboard Preview](screenshots/executive_dashboard.png)
 
 ## Repository Contents 📄
 
