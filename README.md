@@ -5,6 +5,24 @@ The report combines executive KPI monitoring, interactive drill-down analysis, A
 
 ---
 
+## Business Problem 🚨
+
+AdventureWorks management requires a centralized reporting solution to monitor sales performance, customer behavior, product profitability, and regional trends.
+The objective of this dashboard is to provide actionable insights that help stakeholders:
+- Track revenue and profitability
+- Identify top-performing products
+- Analyze customer purchasing behavior
+- Monitor regional sales performance
+- Forecast future sales trends
+
+---
+
+## Tech Stack 📌
+
+**Power BI, DAX, Power Query, Data Modeling**
+
+---
+
 ## What I Built 🔧
 
 This dashboard consists of multiple report pages covering:
@@ -18,9 +36,29 @@ This dashboard consists of multiple report pages covering:
 
 ---
 
-## Tech Stack 📌
+## Key Metrics Tracked ✅
 
-**Power BI, DAX, Power Query, Data Modeling**
+- Total Revenue
+- Total Orders
+- Total Profit
+- Average Order Value
+- Customer Retention Rate
+- Sales Growth %
+- Regional Performance
+- Product Category Performance
+
+---
+
+## Dashboard Features 🚀
+
+- Interactive slicers and filters
+- Drill-through analysis
+- Dynamic KPI cards
+- Time-series forecasting
+- AI-powered Key Influencers analysis
+- Decomposition Tree analysis
+- Anomaly Detection
+- Geographic mapping
 
 ---
 
@@ -34,20 +72,15 @@ This dashboard consists of multiple report pages covering:
 ```
 PowerBI-Business-Intelligence-Dashboard/
 │
-├── custom-icons/                          # PNG files for custom icon images used in the dashboard
-├── dashboard-screenshots/                 # Dashboard screenshots for all important analysis
-├── datasets/                              # Raw datasets used for the project (AdventureWorks Raw Data)
-├── AdventureWorks_Report-Dashboard.pbx    # Main Dashboard File (PowerBI)
-├── demo.mp4                               # demo mp4 screen recording to showcase the dashboard features
+├── custom-icons/                           # PNG files for custom icon images used in the dashboard
+├── dashboard-screenshots/                  # Dashboard screenshots for all important analysis
+├── datasets/                               # Raw datasets used for the project (AdventureWorks Raw Data)
+├── AdventureWorks_Report-Dashboard.pbix    # Main Dashboard File (PowerBI)
+├── demo.mp4                                # demo mp4 screen recording to showcase the dashboard features
 │
-├── README.md                              # Project overview and instructions
-├── LICENSE                                # License information for the repository
+├── README.md                               # Project overview and instructions
+├── LICENSE                                 # License information for the repository
 ```
----
-
-## Key Learning Outcomes 💡
-
-Through this project, I gained hands-on experience in data modeling, DAX calculations, KPI design, forecasting, dashboard development, and business intelligence reporting using Power BI.
 
 ---
 
